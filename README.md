@@ -21,7 +21,7 @@ test the markdown format
 ## links
 [in-line link](https://www.google.com) can [ref to a heading](#list), can also link to [a file](path_to_a_file) 
 
-Automatic links: to a file file://README.md  and to a website http://google.com
+Automatic links: to a file file://./testfile.txt  and to a website http://google.com
 
 [reference-style link][Arbitrary case-insensitive reference text], can also use the [link text itself]. An extreme example.
 a footnote style link [1] and another one [2] here.
